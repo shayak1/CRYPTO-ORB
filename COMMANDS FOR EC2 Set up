@@ -4,8 +4,8 @@ set -euo pipefail
 ##########################
 # CONFIG - EDIT THESE
 ##########################
-REPO_URL="https://github.com/USERNAME/REPO.git"   # <-- replace with your repo
-REPO_BRANCH="main"                                # <-- replace branch if needed
+REPO_URL="https://github.com/shayak1/CRYPTO-ORB.git"   # <-- replace with your repo
+REPO_BRANCH="main"                                     # <-- replace branch if needed
 
 TARGET_DIR="/home/ubuntu/CRYPTO-ORB"
 VENV_DIR="/home/ubuntu/CRYPTO-ORB/venv"
